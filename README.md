@@ -5,8 +5,12 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 
-- 🔭 &nbsp; Name:     Fang Zurui
-- 🎓 &nbsp; School:   Graduated from China University of Geoscience: Geospatical Infomation Engineering
-- 💼 &nbsp; Work:     <2022.06> Navinfo: 3D visualization engineer
-- 🏃 &nbsp; Habits:   A badminton player; A bicycle rider.
-- 📮 &nbsp; Contact:  You can reach me at fangzurui@qq.com for any inquiries.
+- 👨 &nbsp; Name:     Zurui Fang
+- 🎓 &nbsp; School:
+  - <2017.9 ~ 2021.6> Graduated from China University of Geoscience: Geospatial Information Engineering
+  - <2025.10 ~ 2027.6> Now studying at the University of Queensland: Master of Geographic Information Science
+- 💼 &nbsp; Work:
+  - <2022.06 ~ 2024.1> Navinfo: 3D visualization engineer
+  - <2024.02 ~ 2024.6> Zhifei: GIS developer
+- 🏸 &nbsp; Habits:   A auteur badminton player
+- 📫 &nbsp; Contact:  You can reach me at melodiclyrics@outlook.com for any inquiries.
